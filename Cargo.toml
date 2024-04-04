@@ -13,5 +13,5 @@ repository = "https://github.com/Traverse-Research/rspirv-reflect"
 documentation = "https://docs.rs/rspirv-reflect"
 
 [dependencies]
-rspirv = { git = "https://github.com/beastle9end/rspirv" }
+rspirv = { git = "https://github.com/gfx-rs/rspirv" }
 thiserror = "1.0"
